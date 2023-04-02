@@ -1,0 +1,11 @@
+commit c648247755bf6f7a90104fe6a58da8a3d4b860a6 (HEAD -> dev)
+Author: Eugene <stefjen@mail.ru>
+Date:   Sun Apr 2 12:56:10 2023 +0300
+
+    status.txt and IDEA project
+
+commit a801c34b6399ca4e003419385c8503f39072c771
+Author: Eugene <stefjen@mail.ru>
+Date:   Sun Apr 2 12:53:36 2023 +0300
+
+    add .gitignore
